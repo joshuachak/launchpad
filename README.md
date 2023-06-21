@@ -51,4 +51,6 @@ Content is located in `content/en/` and the directories in there will be one of 
 
 Edit the landing pages in `section-name/index.html` or `section-name.md`
 
+#### Enjoy!!
+
 Edit Sidebar content in `config/_default/menus/menus.en.toml`
